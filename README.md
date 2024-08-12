@@ -41,9 +41,9 @@ The world is quite **unfair**, so use every card you have.
 [Nikita Buyanov][1]
 [Elon Musk][2]
 [Winston Churchill][3]
-![Bird category]
+![Bird category] <br>
 <kbd>
-<img src="https://github.com/lordopower1/AboutMe/blob/main/img/borbs-rqjejf.png" height="200px" width="100px"></kbd>
+<img src="https://github.com/lordopower1/AboutMe/blob/main/img/borbs-rqjejf.png" height="200px" width="150px"></kbd>
 
 | Terms | Definitions | My Meaning
 |:- |  ;----;  | ---;
