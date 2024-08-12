@@ -46,7 +46,7 @@ Bird category <br>
 <img src="https://github.com/lordopower1/AboutMe/blob/main/img/borbs-rqjejf.png" height="200px" width="170px"></kbd>
 
 | Terms | Definitions | My Meaning |
-|:- |  ;----;  | ---; |
+|:- |  :----:  | ---: |
 |Tarkov| A game developed by Battlestate | Peak Game |
 |Day's End| Zomboid server that is incredibly popular | Peak Game, I love it |
 |Red Alert 2| A classic RTS game | Micromanagement simulator disguised as a game |
