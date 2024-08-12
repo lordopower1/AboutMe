@@ -41,6 +41,15 @@ The world is quite **unfair**, so use every card you have.
 [Nikita Buyanov][1]
 [Elon Musk][2]
 [Winston Churchill][3]
+![Bird category]
+<kbd>
+<img src="https://github.com/lordopower1/AboutMe/blob/main/img/borbs-rqjejf.png" height="200px" width="100px"></kbd>
 
+| Terms | Definitions | My Meaning
+|:- |  ;----;  | ---;
+|Tarkov| A game developed by Battlestate | Peak Game
+|Day's End| Zomboid server that is incredibly popular | Peak Game, I love it
+|Red Alert 2| A classic RTS game | Micromanagement simulator disguised as a game
+|Blender| A program that is used for 3D objects and animations | A program that I use and make me want to perish
 
 Markdown Tutorial
