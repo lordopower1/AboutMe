@@ -38,9 +38,9 @@ The world is quite **unfair**, so use every card you have.
 
 ## PoI
 
-[Nikita Buyanov][1]
-[Elon Musk][2]
-[Winston Churchill][3]
+[Nikita Buyanov][1] <br>
+[Elon Musk][2] <br>
+[Winston Churchill][3] <br>
 ![Bird category] <br>
 <kbd>
 <img src="https://github.com/lordopower1/AboutMe/blob/main/img/borbs-rqjejf.png" height="200px" width="150px"></kbd>
