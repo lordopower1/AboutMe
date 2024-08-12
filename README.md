@@ -18,7 +18,7 @@ My hobbies include
 - Film editing
 - Listening to music
 
-  My nighttime routine includes
+My nighttime routine includes
 
  1. Eat dinner(optional)
  2. Dealing with server management until 12AM
@@ -30,7 +30,7 @@ My hobbies include
 
 ## Favorite Quotes
 
-No mountain too **high**, no ocean too **deep*.
+No mountain too **high**, no ocean too **deep*. <br>
 The world is quite **unfair**, so use every card you have.
 
 ## My Favorite Websites
@@ -41,15 +41,15 @@ The world is quite **unfair**, so use every card you have.
 [Nikita Buyanov][1] <br>
 [Elon Musk][2] <br>
 [Winston Churchill][3] <br>
-![Bird category] <br>
+Bird category <br>
 <kbd>
-<img src="https://github.com/lordopower1/AboutMe/blob/main/img/borbs-rqjejf.png" height="200px" width="150px"></kbd>
+<img src="https://github.com/lordopower1/AboutMe/blob/main/img/borbs-rqjejf.png" height="200px" width="170px"></kbd>
 
-| Terms | Definitions | My Meaning
-|:- |  ;----;  | ---;
-|Tarkov| A game developed by Battlestate | Peak Game
-|Day's End| Zomboid server that is incredibly popular | Peak Game, I love it
-|Red Alert 2| A classic RTS game | Micromanagement simulator disguised as a game
-|Blender| A program that is used for 3D objects and animations | A program that I use and make me want to perish
+| Terms | Definitions | My Meaning |
+|:- |  ;----;  | ---; |
+|Tarkov| A game developed by Battlestate | Peak Game |
+|Day's End| Zomboid server that is incredibly popular | Peak Game, I love it |
+|Red Alert 2| A classic RTS game | Micromanagement simulator disguised as a game |
+|Blender| A program that is used for 3D objects and animations | A program that I use and make me want to perish |
 
 Markdown Tutorial
